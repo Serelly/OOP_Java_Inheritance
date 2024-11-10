@@ -36,6 +36,7 @@ public class Veicolo {
         this.marca = marca;
         this.modello = modello;
         this.annoProduzione = annoProduzione;
+
     }
 
 
