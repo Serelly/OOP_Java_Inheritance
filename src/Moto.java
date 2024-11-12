@@ -3,7 +3,7 @@ public class Moto extends Veicolo {
     String tipoManubrio;
 
 
-    /**
+   /**
      * aggiungo costruttore che inizializza tutti gli attributi inclusi quelli della superclass
      * @param marca
      * @param modello

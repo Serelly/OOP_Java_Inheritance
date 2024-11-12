@@ -26,7 +26,6 @@ public class Auto extends Veicolo {
      * @param marca
      * @param modello
      * @param annoProduzione
-     * @param numeroPorte
      */
     public Auto(String marca,String modello, int annoProduzione) {
         super(marca,modello,annoProduzione); //richiamo costruttore vuoto della superclass
